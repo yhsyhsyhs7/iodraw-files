@@ -69,8 +69,14 @@
         <mxCell id="4aEkfx6Bf9Ji4HsHWNg0-7" value="文档数据插入数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="610" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4aEkfx6Bf9Ji4HsHWNg0-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4aEkfx6Bf9Ji4HsHWNg0-9" target="4aEkfx6Bf9Ji4HsHWNg0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4aEkfx6Bf9Ji4HsHWNg0-9" value="删除知识库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4aEkfx6Bf9Ji4HsHWNg0-10" value="删除属于知识库的所有Neo4j节点" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
