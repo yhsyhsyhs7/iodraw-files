@@ -78,13 +78,15 @@
         <mxCell id="4aEkfx6Bf9Ji4HsHWNg0-10" value="删除所有属于知识库的Neo4j节点" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="230" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z47kfC-WFziz8pixR16Q-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z47kfC-WFziz8pixR16Q-0" target="Z47kfC-WFziz8pixR16Q-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Z47kfC-WFziz8pixR16Q-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z47kfC-WFziz8pixR16Q-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="930" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Z47kfC-WFziz8pixR16Q-0" value="投标人知识图谱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z47kfC-WFziz8pixR16Q-2" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Z47kfC-WFziz8pixR16Q-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="930" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
