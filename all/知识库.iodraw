@@ -98,7 +98,7 @@
         <mxCell id="ez5-aL6XFOUBZLu-NSUz-4" value="大模型抽取实体、关系并生成Cypher" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="-1140" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ez5-aL6XFOUBZLu-NSUz-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ez5-aL6XFOUBZLu-NSUz-6" value="调用Neo4jHTTP请求" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="-1140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
