@@ -78,18 +78,14 @@
         <mxCell id="4aEkfx6Bf9Ji4HsHWNg0-10" value="删除所有属于知识库的Neo4j节点" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="230" y="710" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Z47kfC-WFziz8pixR16Q-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z47kfC-WFziz8pixR16Q-0" target="Z47kfC-WFziz8pixR16Q-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z47kfC-WFziz8pixR16Q-0" value="投标人知识图谱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z47kfC-WFziz8pixR16Q-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="650" as="sourcePoint" />
-            <mxPoint x="200" y="900" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="190" y="650" />
-              <mxPoint x="190" y="650" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Z47kfC-WFziz8pixR16Q-2" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="930" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
