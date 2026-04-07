@@ -121,9 +121,6 @@
         <mxCell id="BVXcQ9Xw9lYOutxQWU9e-3" value="投标人知识图谱构建" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="-1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sDIikOY7QCkPqgo4_CGR-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BVXcQ9Xw9lYOutxQWU9e-5" target="ez5-aL6XFOUBZLu-NSUz-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BVXcQ9Xw9lYOutxQWU9e-5" value="法律法规知识图谱构建" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-840" width="120" height="60" as="geometry" />
         </mxCell>
