@@ -112,7 +112,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BVXcQ9Xw9lYOutxQWU9e-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BVXcQ9Xw9lYOutxQWU9e-1" target="BVXcQ9Xw9lYOutxQWU9e-5">
+        <mxCell id="BVXcQ9Xw9lYOutxQWU9e-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="BVXcQ9Xw9lYOutxQWU9e-1" target="BVXcQ9Xw9lYOutxQWU9e-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BVXcQ9Xw9lYOutxQWU9e-1" value="selection" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
