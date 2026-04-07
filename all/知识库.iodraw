@@ -89,7 +89,7 @@
         <mxCell id="ez5-aL6XFOUBZLu-NSUz-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ez5-aL6XFOUBZLu-NSUz-2" target="ez5-aL6XFOUBZLu-NSUz-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ez5-aL6XFOUBZLu-NSUz-2" value="投标人知识图谱" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ez5-aL6XFOUBZLu-NSUz-2" value="知识图谱构建" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="-1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ez5-aL6XFOUBZLu-NSUz-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ez5-aL6XFOUBZLu-NSUz-4" target="ez5-aL6XFOUBZLu-NSUz-6" edge="1">
