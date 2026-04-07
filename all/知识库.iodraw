@@ -133,6 +133,9 @@
         <mxCell id="sDIikOY7QCkPqgo4_CGR-3" value="大模型抽取实体关系" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="-840" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sDIikOY7QCkPqgo4_CGR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sDIikOY7QCkPqgo4_CGR-5" target="ez5-aL6XFOUBZLu-NSUz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sDIikOY7QCkPqgo4_CGR-5" value="Python生成Cypher" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="-840" width="120" height="60" as="geometry" />
         </mxCell>
