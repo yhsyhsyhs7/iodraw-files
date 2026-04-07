@@ -127,7 +127,7 @@
         <mxCell id="BVXcQ9Xw9lYOutxQWU9e-5" value="法律法规知识图谱构建" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sDIikOY7QCkPqgo4_CGR-3" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="sDIikOY7QCkPqgo4_CGR-3" value="大模型抽取实体关系" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="-840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
