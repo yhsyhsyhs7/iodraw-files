@@ -96,10 +96,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ez5-aL6XFOUBZLu-NSUz-4" value="大模型抽取实体、关系并生成Cypher" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="197.5" y="-840" width="125" height="60" as="geometry" />
+          <mxGeometry x="375" y="-1000" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ez5-aL6XFOUBZLu-NSUz-6" value="调用Neo4jHTTP请求" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="-840" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="-1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BVXcQ9Xw9lYOutxQWU9e-4" value="0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" edge="1" parent="1" source="BVXcQ9Xw9lYOutxQWU9e-1" target="BVXcQ9Xw9lYOutxQWU9e-3">
           <mxGeometry relative="1" as="geometry">
@@ -121,8 +121,14 @@
         <mxCell id="BVXcQ9Xw9lYOutxQWU9e-3" value="投标人知识图谱构建" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="-1000" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sDIikOY7QCkPqgo4_CGR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BVXcQ9Xw9lYOutxQWU9e-5" target="sDIikOY7QCkPqgo4_CGR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BVXcQ9Xw9lYOutxQWU9e-5" value="法律法规知识图谱构建" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sDIikOY7QCkPqgo4_CGR-3" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
