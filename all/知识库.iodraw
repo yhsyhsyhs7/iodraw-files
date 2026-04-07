@@ -105,7 +105,12 @@
           <mxGeometry x="440" y="-1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BVXcQ9Xw9lYOutxQWU9e-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BVXcQ9Xw9lYOutxQWU9e-1" target="BVXcQ9Xw9lYOutxQWU9e-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="-970" />
+              <mxPoint x="160" y="-970" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="BVXcQ9Xw9lYOutxQWU9e-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BVXcQ9Xw9lYOutxQWU9e-1" target="BVXcQ9Xw9lYOutxQWU9e-5">
           <mxGeometry relative="1" as="geometry" />
