@@ -129,8 +129,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="naWcO5YBhTZSbWji8iPl-3" value="第一步" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" edge="1" parent="1" source="naWcO5YBhTZSbWji8iPl-1" target="naWcO5YBhTZSbWji8iPl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="naWcO5YBhTZSbWji8iPl-1" value="排查项目的先建后招" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="naWcO5YBhTZSbWji8iPl-2" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="10" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
