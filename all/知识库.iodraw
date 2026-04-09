@@ -109,7 +109,7 @@
         <mxCell id="hxqR4Mq_8PPeLfBiP5QR-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxqR4Mq_8PPeLfBiP5QR-9" target="hxqR4Mq_8PPeLfBiP5QR-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hxqR4Mq_8PPeLfBiP5QR-9" value="Dataset{name,ID}" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hxqR4Mq_8PPeLfBiP5QR-9" value="Dataset{name,ID}&lt;div&gt;(法律法规库)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hxqR4Mq_8PPeLfBiP5QR-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxqR4Mq_8PPeLfBiP5QR-10" target="hxqR4Mq_8PPeLfBiP5QR-12">
