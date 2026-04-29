@@ -81,8 +81,14 @@
         <mxCell id="QoznsB2QY6rU6TYA5EDr-10" value="进行编译" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="555" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QoznsB2QY6rU6TYA5EDr-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QoznsB2QY6rU6TYA5EDr-12" target="QoznsB2QY6rU6TYA5EDr-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QoznsB2QY6rU6TYA5EDr-12" value="建立主机配置文件和run.sh脚本" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="695" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QoznsB2QY6rU6TYA5EDr-14" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
