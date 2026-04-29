@@ -26,19 +26,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QoznsB2QY6rU6TYA5EDr-6" value="创建池化操作源码pooling.cpp" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QoznsB2QY6rU6TYA5EDr-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QoznsB2QY6rU6TYA5EDr-8" target="QoznsB2QY6rU6TYA5EDr-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QoznsB2QY6rU6TYA5EDr-8" value="创建Makefile" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QoznsB2QY6rU6TYA5EDr-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QoznsB2QY6rU6TYA5EDr-10" target="QoznsB2QY6rU6TYA5EDr-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QoznsB2QY6rU6TYA5EDr-10" value="进行编译" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QoznsB2QY6rU6TYA5EDr-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QoznsB2QY6rU6TYA5EDr-12" target="QoznsB2QY6rU6TYA5EDr-14">
           <mxGeometry relative="1" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="220" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QoznsB2QY6rU6TYA5EDr-14" value="分别执行乘法、卷积和池化" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
