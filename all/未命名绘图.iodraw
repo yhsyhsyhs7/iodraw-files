@@ -89,8 +89,14 @@
         <mxCell id="YjIIMFxofqNfdB4VLejH-41" value="register_tools()" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="105" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ktw9s4mZoTkIWsZE6gUB-0" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="105" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="Ktw9s4mZoTkIWsZE6gUB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ktw9s4mZoTkIWsZE6gUB-0" target="Ktw9s4mZoTkIWsZE6gUB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ktw9s4mZoTkIWsZE6gUB-0" value="处理所需工具" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="105" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ktw9s4mZoTkIWsZE6gUB-2" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="247.5" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
