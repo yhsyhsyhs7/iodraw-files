@@ -74,7 +74,7 @@
           <mxGeometry x="600" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YjIIMFxofqNfdB4VLejH-31" value="build_user_task_registry(attack_config)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="105" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="56.25" y="470" width="217.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
