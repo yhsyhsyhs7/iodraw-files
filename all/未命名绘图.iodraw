@@ -51,7 +51,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YjIIMFxofqNfdB4VLejH-22" value="attack_config" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="300" width="140" height="180" as="geometry" />
+          <mxGeometry x="344" y="260" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="YjIIMFxofqNfdB4VLejH-23" value="method" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YjIIMFxofqNfdB4VLejH-22">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -69,7 +69,7 @@
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YjIIMFxofqNfdB4VLejH-29" value="print" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0;startSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="350" width="80" height="80" as="geometry" />
+          <mxGeometry x="600" y="310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YjIIMFxofqNfdB4VLejH-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YjIIMFxofqNfdB4VLejH-31" target="YjIIMFxofqNfdB4VLejH-35">
           <mxGeometry relative="1" as="geometry" />
@@ -77,7 +77,7 @@
         <mxCell id="YjIIMFxofqNfdB4VLejH-31" value="&lt;div&gt;user_task_tool, user_task_handlers =&lt;/div&gt;build_user_task_registry(attack_config)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="56.25" y="480" width="217.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YjIIMFxofqNfdB4VLejH-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YjIIMFxofqNfdB4VLejH-35" value="TOOLS, TOOLS_HANDLES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
