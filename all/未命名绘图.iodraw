@@ -83,7 +83,7 @@
         <mxCell id="YjIIMFxofqNfdB4VLejH-35" value="TOOLS, TOOLS_HANDLES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="344" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YjIIMFxofqNfdB4VLejH-41" value="register()" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YjIIMFxofqNfdB4VLejH-41" value="register_tools()" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="105" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
