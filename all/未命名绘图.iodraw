@@ -111,7 +111,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ktw9s4mZoTkIWsZE6gUB-6" value="raise缺失工具" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ktw9s4mZoTkIWsZE6gUB-8" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="630" width="120" height="60" as="geometry" />
