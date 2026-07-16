@@ -92,6 +92,9 @@
         <mxCell id="Ktw9s4mZoTkIWsZE6gUB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ktw9s4mZoTkIWsZE6gUB-0" target="Ktw9s4mZoTkIWsZE6gUB-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Ktw9s4mZoTkIWsZE6gUB-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ktw9s4mZoTkIWsZE6gUB-0" target="Ktw9s4mZoTkIWsZE6gUB-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ktw9s4mZoTkIWsZE6gUB-0" value="处理所需工具" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="105" y="630" width="120" height="60" as="geometry" />
         </mxCell>
@@ -121,6 +124,9 @@
         </mxCell>
         <mxCell id="Ktw9s4mZoTkIWsZE6gUB-14" value="raiseError" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ktw9s4mZoTkIWsZE6gUB-16" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="125" y="760" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
