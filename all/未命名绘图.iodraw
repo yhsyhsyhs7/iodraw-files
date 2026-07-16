@@ -107,7 +107,7 @@
         <mxCell id="Ktw9s4mZoTkIWsZE6gUB-4" value="获取已注册好的工具" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ktw9s4mZoTkIWsZE6gUB-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ktw9s4mZoTkIWsZE6gUB-10" target="Ktw9s4mZoTkIWsZE6gUB-12">
+        <mxCell id="Ktw9s4mZoTkIWsZE6gUB-13" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ktw9s4mZoTkIWsZE6gUB-10" target="Ktw9s4mZoTkIWsZE6gUB-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ktw9s4mZoTkIWsZE6gUB-10" value="缺失工具？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
