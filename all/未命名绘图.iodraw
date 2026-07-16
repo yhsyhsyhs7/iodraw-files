@@ -28,7 +28,7 @@
           <mxGeometry x="105" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YjIIMFxofqNfdB4VLejH-9" value="user_task" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="200" width="140" height="90" as="geometry">
+          <mxGeometry x="350" y="200" width="140" height="90" as="geometry">
             <mxRectangle x="250" y="210" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -73,8 +73,11 @@
         <mxCell id="YjIIMFxofqNfdB4VLejH-29" value="print" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0;startSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="350" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="YjIIMFxofqNfdB4VLejH-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YjIIMFxofqNfdB4VLejH-31" target="YjIIMFxofqNfdB4VLejH-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YjIIMFxofqNfdB4VLejH-31" value="&lt;div&gt;user_task_tool, user_task_handlers =&lt;/div&gt;build_user_task_registry(attack_config)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="56.25" y="470" width="217.5" height="60" as="geometry" />
+          <mxGeometry x="56.25" y="480" width="217.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YjIIMFxofqNfdB4VLejH-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="480" width="120" height="60" as="geometry" />
