@@ -143,7 +143,7 @@
         <mxCell id="Ktw9s4mZoTkIWsZE6gUB-20" value="print（结果）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="105" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ktw9s4mZoTkIWsZE6gUB-22" value="tri" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ktw9s4mZoTkIWsZE6gUB-22" value="trigger_hooks" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="544" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
