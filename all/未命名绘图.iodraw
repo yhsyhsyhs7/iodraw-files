@@ -101,17 +101,18 @@
         <mxCell id="Ktw9s4mZoTkIWsZE6gUB-2" value="获取任务所需工具&lt;div&gt;（用户任务和注入任务）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="247.5" y="630" width="132.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ktw9s4mZoTkIWsZE6gUB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ktw9s4mZoTkIWsZE6gUB-4" target="Ktw9s4mZoTkIWsZE6gUB-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Ktw9s4mZoTkIWsZE6gUB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ktw9s4mZoTkIWsZE6gUB-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="660" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ktw9s4mZoTkIWsZE6gUB-4" value="获取已注册好的工具" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ktw9s4mZoTkIWsZE6gUB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ktw9s4mZoTkIWsZE6gUB-6" target="Ktw9s4mZoTkIWsZE6gUB-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ktw9s4mZoTkIWsZE6gUB-6" value="raise缺失工具" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="Ktw9s4mZoTkIWsZE6gUB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Ktw9s4mZoTkIWsZE6gUB-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="660" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ktw9s4mZoTkIWsZE6gUB-8" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="630" width="120" height="60" as="geometry" />
