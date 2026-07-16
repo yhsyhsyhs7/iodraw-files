@@ -101,8 +101,14 @@
         <mxCell id="Ktw9s4mZoTkIWsZE6gUB-2" value="获取任务所需工具&lt;div&gt;（用户任务和注入任务）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="247.5" y="630" width="132.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ktw9s4mZoTkIWsZE6gUB-4" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="466.25" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="Ktw9s4mZoTkIWsZE6gUB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ktw9s4mZoTkIWsZE6gUB-4" target="Ktw9s4mZoTkIWsZE6gUB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ktw9s4mZoTkIWsZE6gUB-4" value="获取已注册好的工具" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ktw9s4mZoTkIWsZE6gUB-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
