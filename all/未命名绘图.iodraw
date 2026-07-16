@@ -24,7 +24,7 @@
         <mxCell id="YjIIMFxofqNfdB4VLejH-5" value="user_task = load_user_task(0)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="105" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YjIIMFxofqNfdB4VLejH-9" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YjIIMFxofqNfdB4VLejH-9" value="user_task" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="210" width="140" height="120" as="geometry">
             <mxRectangle x="250" y="210" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -37,9 +37,6 @@
         </mxCell>
         <mxCell id="YjIIMFxofqNfdB4VLejH-12" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YjIIMFxofqNfdB4VLejH-9">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YjIIMFxofqNfdB4VLejH-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="50" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
