@@ -21,6 +21,9 @@
             <mxPoint x="250" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YjIIMFxofqNfdB4VLejH-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YjIIMFxofqNfdB4VLejH-5" target="YjIIMFxofqNfdB4VLejH-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YjIIMFxofqNfdB4VLejH-5" value="user_task = load_user_task(0)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="105" y="240" width="120" height="60" as="geometry" />
         </mxCell>
@@ -37,6 +40,9 @@
         </mxCell>
         <mxCell id="YjIIMFxofqNfdB4VLejH-12" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YjIIMFxofqNfdB4VLejH-9">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YjIIMFxofqNfdB4VLejH-16" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="105" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
