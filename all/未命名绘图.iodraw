@@ -80,6 +80,9 @@
         <mxCell id="YjIIMFxofqNfdB4VLejH-31" value="&lt;div&gt;user_task_tool, user_task_handlers =&lt;/div&gt;build_user_task_registry(attack_config)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="56.25" y="450" width="217.5" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Ktw9s4mZoTkIWsZE6gUB-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YjIIMFxofqNfdB4VLejH-35" target="Ktw9s4mZoTkIWsZE6gUB-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YjIIMFxofqNfdB4VLejH-35" value="TOOLS, TOOLS_HANDLES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="344" y="450" width="120" height="60" as="geometry" />
         </mxCell>
@@ -139,6 +142,9 @@
         </mxCell>
         <mxCell id="Ktw9s4mZoTkIWsZE6gUB-20" value="print（结果）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="105" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ktw9s4mZoTkIWsZE6gUB-22" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="544" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
