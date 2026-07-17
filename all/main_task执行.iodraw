@@ -149,7 +149,7 @@
         <mxCell id="Ktw9s4mZoTkIWsZE6gUB-22" value="trigger_hooks" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DdSphVaE5mNEHs-FVpLD-0" value="environment_attack_hook（）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DdSphVaE5mNEHs-FVpLD-0" value="environment_attack_hook()" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="450" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
